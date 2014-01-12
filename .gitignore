@@ -15,5 +15,7 @@
 /log/*.log
 /tmp
 
-*.swp
-*~
+#ignore swp and ~files
+/*.swp
+/*~
+>>>>>>> static-pages
